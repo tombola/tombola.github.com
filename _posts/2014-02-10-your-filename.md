@@ -1,5 +1,13 @@
 ---
 published: false
+layout: post
+category: lessons
+tagline: Supporting tagline
+tags: 
+  - intro
+  - beginner
+  - jekyll
+  - tutorial
 ---
 
 ## Simple blogging
@@ -29,10 +37,3 @@ Predictably, I went with number 3. As a brief overview, rather than dynamically 
 The last time round I lost my content because it was wrapped up in someone elses platform and they decided to do something else with it. Thats fine, I'm not bitter (really!), but it served as a useful reminder - service providers have their own priorities. If I want to keep hold of my posts etc, I need to ensure that it remains accessible to me. If I generate a static site, those files are entirely under my control. They require only the most simple, cheapest, low maintenance web server to present them on the web, and I can fiddle with them on my computer offline to my heart's content.
 
 The reason I chose Jekyll as my static site generator (there are **so** [many](http://staticsitegenerators.net/) is that, fortuitously, [github](http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/) will do the generation bit for me, and host my site for free (I genuinely love github). This does mean I am relying on a service provider to look after my blog again, but in this case our priorities are aligned. Even if github decides at a later date that they no longer wish to display my blog, their entire business model is based on securely storing peoples code, regardless of its function. So my blog should still be there, and I can move it if I want.
-
-
-
-
-
-
-
