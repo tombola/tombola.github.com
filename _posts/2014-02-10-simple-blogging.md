@@ -1,13 +1,9 @@
 ---
-published: true
 layout: post
-category: lessons
-tagline: Supporting tagline
-tags: 
-  - intro
-  - beginner
-  - jekyll
-  - tutorial
+published: true
+category: geek
+tagline: static blogs
+tags: "jekyll, platforms, blogging"
 ---
 
 A blog seems a sensible thing to have, if only so that I have somewhere to write longer posts for reference on twitter.
