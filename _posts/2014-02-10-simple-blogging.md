@@ -10,8 +10,6 @@ tags:
   - tutorial
 ---
 
-## Simple blogging
-
 A blog seems a sensible thing to have, if only so that I have somewhere to write longer posts for reference on twitter.
 
 It gives me to put content I might want to share with someone, regardless of whether anyone finds it, or chooses to read it.
