@@ -29,7 +29,7 @@ production_url : http://tombola.github.io
 
 prose:
   metadata:
-    /:
+    "/":
       - name: "layout"
         field:
           element: "hidden"
