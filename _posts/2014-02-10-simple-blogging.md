@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: geek
+category: geekery
 tagline: static blogs
 tags: "jekyll, platforms, blogging"
 ---
