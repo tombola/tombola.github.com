@@ -29,7 +29,7 @@ production_url : http://tombola.github.io
 
 prose:
   metadata:
-    "/":
+    "":
       - name: "layout"
         field:
           element: "hidden"
@@ -59,6 +59,7 @@ prose:
           element: "text"
           label: tags
           type: text
+
 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
