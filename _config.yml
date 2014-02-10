@@ -26,6 +26,7 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://tombola.github.io
+
 prose:
   metadata:
     _posts:
@@ -36,9 +37,18 @@ prose:
       - name: "category"
         field:
           element: "text"
+          label: category
           type: text
-    
-
+      - name: "tagline"
+        field:
+          element: "text"
+          label: tagline
+          type: text
+      - name: "tags"
+        field:
+          element: "text"
+          label: tags
+          type: text
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
