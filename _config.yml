@@ -29,6 +29,15 @@ production_url : http://tombola.github.io
 
 prose:
   metadata:
+    - name: "layout"
+          field:
+            element: "hidden"
+            value: "page"
+        - name: "tagline"
+          field:
+            element: "text"
+            label: tagline
+            type: text
     _posts:
       - name: "layout"
         field:
