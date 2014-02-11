@@ -5,15 +5,18 @@ tagline: ""
 published: true
 ---
 
-For non-geeks, [hello world](http://en.wikipedia.org/wiki/Hello_world_program) is where every bit of software, or assay into new coding language starts.
+{% for post in site.posts %}
 
-<ul class="posts">
-{% for post in site.posts limit: 20 %}
-  <div class="post_info">
-    <li>
-         <a href="{{ post.url }}">{{ post.title }}</a> 
-         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
-    </li>
-    </div>
-  {% endfor %}
-</ul>
+  <article class="unit-article layout-post">
+      <div class="unit-inner unit-article-inner">
+          <div class="content">
+              <div class="bd">
+                  <div class="entry-content">
+                      {{ post.content }}
+                  </div><!-- entry-content -->
+              </div><!-- bd -->
+          </div><!-- content -->
+      </div><!-- unit-inner -->
+  </article>
+
+{% endfor %}
