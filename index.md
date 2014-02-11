@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: Blog
 tagline: ""
 published: true
 ---
