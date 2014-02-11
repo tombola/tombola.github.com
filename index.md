@@ -9,7 +9,7 @@ published: true
 
   <article class="unit-article layout-post">
   	<h2>{{ post.title }}</h2>
-      <i class="glyphicon glyphicon-tag">{{ post.category }}</i>
+      <span class="glyphicon glyphicon-tag">{{ post.category }}</span>
       <div class="unit-inner unit-article-inner">
           <div class="content">
               <div class="bd">
