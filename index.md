@@ -10,7 +10,7 @@ published: true
   <article class="unit-article layout-post">
   	<h2>{{ post.title }}</h2>
       <!--<span class="glyphicon glyphicon-tag">{{ post.category }}</span>-->
-      <p><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%-d %B %Y" }}</time></p>
+      <p><em><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%-d %B %Y" }}</time></em></p>
       {{ post.content }}
   </article>
 
