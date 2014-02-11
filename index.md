@@ -10,6 +10,7 @@ published: true
   <article class="unit-article layout-post">
   	<h2>{{ post.title }}</h2>
       <!--<span class="glyphicon glyphicon-tag">{{ post.category }}</span>-->
+      <em>{{ post.date }}</em>
       <div class="unit-inner unit-article-inner">
           <div class="content">
               <div class="bd">
