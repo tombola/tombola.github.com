@@ -10,7 +10,7 @@ A blog seems a sensible thing to have, if only so that I have somewhere to write
 
 It gives me to put content I might want to share with someone, regardless of whether anyone finds it, or chooses to read it.
 
-So I have decided to make a blog. 
+So I have decided to make a blog. Simple to start, pretty later.
 
 The thing is, I have done this many time before, partly just to trial different platforms ([wordpress](http://wordpress.com/), [blogger](https://www.blogger.com), posterous, [svtle](https://svbtle.com/). Last time round I settled on posterous. For those of you (imaginary readers), that do not know, posterous was a blogging platform that linked in with services like twitter to spread your content across different channels. Unfortunately, posterous was bought out and closed down by twitter. I could have [moved my posts](http://techcrunch.com/2013/02/15/posterous-will-shut-down-on-april-30th-co-founder-garry-tan-launches-posthaven-to-save-your-sites/) on to 'posthaven', but it didn't seem worth it. I am not a very frequent blogger, I didn't have too many posts. 
 
