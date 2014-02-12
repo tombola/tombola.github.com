@@ -1,7 +1,10 @@
 /* tombola customiasations */
+@media (min-width:768px) {
+  body {padding-top: 42px;}
+}
 
 article {
-  margin-bottom: 32px;
+  padding-bottom: 24px;
 }
 
 /* Custom container */
@@ -30,7 +33,7 @@ article {
   text-align: left; }
 
 /* post-full*/
-.post-full .date {
+.date {
   margin-bottom: 20px;
   font-weight: bold; }
 
