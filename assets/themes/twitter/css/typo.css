@@ -1,0 +1,84 @@
+body {
+	font-family: Arial;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+
+
+p {
+	margin-bottom: 24px;
+	font-family: Roboto;
+	font-size: 15px;
+	line-height: 24px;
+	letter-spacing: 0px;
+	color: rgba(38,38,38,1);
+	font-style: normal;
+	font-weight: 400;
+}
+
+
+blockquote {
+	font-family: source-sans-pro;
+	padding-left: 2em;
+	border-left: solid #bbb;
+	line-height: 24px;
+	margin-bottom: 24px;
+	padding: 12px 2em;
+	background: #f0f0f0;
+	margin-top: 1px;
+	font-style: normal;
+	font-weight: 400;
+}
+
+
+h1 {
+	font-family: Rokkitt;
+	line-height: 48px;
+	font-size: 36px;
+	margin-top: 9px;
+	margin-bottom: 16px;
+	letter-spacing: -1px;
+	color: rgba(137,137,137,1);
+	font-style: normal;
+	font-weight: 700;
+}
+
+
+h2 {
+	font-size: 24px;
+	line-height: 30px;
+	font-family: Rokkitt;
+	color: rgba(137,137,137,1);
+	letter-spacing: 0px;
+	margin-top: 0px;
+	margin-bottom: 16px;
+	font-style: normal;
+	font-weight: 700;
+}
+
+
+h3 {
+	font-style: normal;
+	font-weight: 700;
+	font-family: Rokkitt;
+	font-size: 21px;
+	line-height: 30px;
+	color: rgba(137,137,137,1);
+	margin-bottom: 16px;
+}
+
+
+h5 {
+	font-style: normal;
+	font-weight: 500;
+	font-family: "AvenirNextRoundedW01-Md 1075562";
+	font-size: 14px;
+	margin-bottom: 24px;
+	line-height: 24px;
+}
+
+
