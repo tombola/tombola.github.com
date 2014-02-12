@@ -18,7 +18,7 @@ However, since the closure of my old blog I have found myself wanting to link to
 
 *Geek Alert - the following content will not be of interest to (admirably) low tech readers* 
 
-### Options for blogging
+## Options for blogging
 
 1. sign up to another (free) blogging **service** (wordpress/blogger/tumblr)
 2. install a blog or cms myself (wordpress/statamic/etc)
@@ -26,7 +26,7 @@ However, since the closure of my old blog I have found myself wanting to link to
 
 Predictably, I went with number 3. As a brief overview, rather than dynamically retrieving and rendering web content from a database (like wordpress etc), a static site generator creates simple HTML webpages to represent your content. It does this intelligently, making them look pretty and all, but the final result is a set of pages you could put on a usb stick and open in your browser, not requiring a webserver, database, etc.
 
-#### Using a static site
+### Using a static site
 
 The last time round I lost my content because it was wrapped up in someone elses platform and they decided to do something else with it. Thats fine, I'm not bitter (really!), but it served as a useful reminder - service providers have their own priorities. If I want to keep hold of my posts etc, I need to ensure that it remains accessible to me. If I generate a static site, those files are entirely under my control. They require only the most simple, cheapest, low maintenance web server to present them on the web, and I can fiddle with them on my computer offline to my heart's content.
 
