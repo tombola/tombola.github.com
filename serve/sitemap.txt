@@ -1,12 +1,12 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://tombola.github.io/archive.html
+http://tombola.github.io/atom.xml
+http://tombola.github.io/categories.html
+http://tombola.github.io/index.html
+http://tombola.github.io/pages.html
+http://tombola.github.io/rss.xml
+http://tombola.github.io/sitemap.txt
+http://tombola.github.io/tags.html
 
-http://username.github.io/lessons/2014/02/10/jekyll-introduction
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://tombola.github.io/2014/02/11/New-Blog
+http://tombola.github.io/geekery/2014/02/10/simple-blogging
