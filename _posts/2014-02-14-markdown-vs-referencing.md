@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: Markdown vs Referencing
 category: geekery
 tagline: static blogs
 tags: "jekyll, platforms, blogging"
