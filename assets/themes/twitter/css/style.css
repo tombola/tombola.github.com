@@ -3,6 +3,15 @@
   body {padding-top: 42px;}
 }
 
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -ms-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
 article {
   padding-bottom: 12px;
 }
