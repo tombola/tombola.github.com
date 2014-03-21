@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Prezi Desktop
 category: tools
-tagline: "giddy with excitement"
+tagline: giddy with excitement
 tags: "app, tools, presentation"
 ---
 
@@ -22,26 +22,26 @@ Main differences between desktop and web version:
 
 There really is little else. You can already [download a copy of your prezi](https://prezi.zendesk.com/entries/22441718-download-a-portable-prezi) from the web version of Prezi to use offline (no software required), so that is not a distinguishing feature. The app interface (sensibly) is exactly the same as the online experience
 
-For a free education account, which already has the ability to get rid of the prezi logo, and allows private presentations, the only advantages of Prezi Edu Pro (~$5/month) are extra storage (2gb rather than 500mb), and the desktop app\*. 
+For a free education account, which already has the ability to get rid of the prezi logo, and allows private presentations, the only advantages of Prezi [Edu] Pro (~$5/month) are extra storage (2gb rather than 500mb), and the desktop app\*. 
 
 ##Verdict
 
-The pro account (with desktop app) is a handy thing to have, if:
+The desktop app is a handy thing to have, if:
 
 * you like using prezi to get your point across
+* you have considered how to avoid making people dizzy
 * you are blighted by a slow internet connection
-* you are a heavy user of prezi
 * you would like to make/amend your presentation on the train
 
 It might not be worth paying for the Edu Pro account if:
 
 * you work in education (and have the free edu account)
 * you have decent and reliable internet connection
+* you are a fan of stock imagery (because that might also make you a headspinning prezi fan)
 * you do not travel by train (much)
 
-Also worth considering is whether to use Prezi at all, but that mainly comes down to how easy you find it to use, what your content is, and your audience. I would say, with a high degree of bias - if you are a fan of stock imagery do not use Prezi (because in all likelihood you are also a headspinning prezi fan..)
 
----
+
 
 \*There is 'premium support' as well, but to be honest, if the online help resources are not up to scratch there is no point in engaging with a tool like this, which should hopefully be simple to use anyway.
 
