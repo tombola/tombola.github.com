@@ -9,7 +9,9 @@ tags: "app, tools, presentation"
 
 The implied excitement above is slightly disingenuous. Prezi is a familiar tool to most people working in education by now, but also the cause of frequent (literal) headaches, and thus not a drop in replacement for powerpoint (unlike google presentations, but that is another post)
 
-<iframe src="http://prezi.com/embed/ubiqmwfo9dnp/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="700" height="500" frameBorder="0" webkitAllowFullScreen="1" mozAllowFullscreen="1" allowfullscreen="1"></iframe>
+[![prezi example](/images/prezi_screenshot.png)](http://prezi.com/ubiqmwfo9dnp/dizzy/)
+
+<!--<iframe src="http://prezi.com/embed/ubiqmwfo9dnp/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="700" height="350" frameBorder="0" webkitAllowFullScreen="1" mozAllowFullscreen="1" allowfullscreen="1"></iframe>-->
 
 Anyway, Prezi has its uses, and some academics/students find it can help them liven up an otherwise static presentation (when used carefully/sparingly).
 
