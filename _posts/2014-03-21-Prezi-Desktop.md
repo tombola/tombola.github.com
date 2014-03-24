@@ -9,7 +9,7 @@ tags: "app, tools, presentation"
 
 The implied excitement above is slightly disingenuous. Prezi is a familiar tool to most people working in education by now, but also the cause of frequent (literal) headaches, and thus not a drop in replacement for powerpoint (unlike google presentations, but that is another post)
 
- TODO embed/link to example (writing this offline)
+<iframe src="http://prezi.com/embed/ubiqmwfo9dnp/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="700" height="500" frameBorder="0" webkitAllowFullScreen mozAllowFullscreen allowfullscreen></iframe>
 
 Anyway, Prezi has its uses, and some academics/students find it can help them liven up an otherwise static presentation (when used carefully/sparingly).
 
@@ -39,7 +39,7 @@ It might not be worth paying for the Edu Pro account if:
 * you have decent and reliable internet connection
 * you do not travel by train (much)
 
-Also worth considering is whether to use Prezi at all, but that mainly comes down to how easy you find it to use, what your content is, and your audience. I would say, with a high degree of bias - if you are a fan of stock imagery do not use Prezi (because in all likelihood you are also a headspinning prezi fan..)
+Also worth considering is **whether to use Prezi at all**, but that mainly comes down to how easy you find it to use, what your content is, and your audience. I would say, with a high degree of bias - if you are a fan of stock imagery do not use Prezi (because in all likelihood you are also a headspinning prezi fan..)
 
 ---
 
