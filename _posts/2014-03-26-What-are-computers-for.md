@@ -8,7 +8,7 @@ tags: "philosophy,information"
 ---
 <!--<div class="alert alert-info">I tend to use the word 'technology' liberally, but I am almost always referring to computerised systems, and in the main those that make use of the world wide web.</div>-->
 
-<p class="lead"> The actual computer is lost in the background somewhat since we started talking in terms of <em>apps</em>, <em>tools</em>, <em>systems</em> etc, making an assumption that the information processing underneath just happened. Also, adding to the confusion, we don't even call some 'devices' computers anymore (eg portable devices).</p>
+<p class="lead"> The actual computer is lost in the background somewhat since we started talking in terms of <em>apps</em>, <em>tools</em>, <em>systems</em> etc, making an implicit assumption that the information processing underneath just happened. Also, adding to the confusion, we don't even call some 'devices' computers anymore (eg portable devices).</p>
 
 It is easy to get seduced by, and caught up in a continual cycle of interaction with these 'information technologies'. I often feel that I am losing contact with what the initial purpose of these complicated systems, and that feeding and caring for these computational entities becomes the goal itself, either for myself or others.
 
