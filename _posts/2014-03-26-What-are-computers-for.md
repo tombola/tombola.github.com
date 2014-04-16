@@ -10,7 +10,7 @@ tags: "philosophy,information"
 
 <p class="lead"> The actual computer is lost in the background somewhat since we started talking in terms of <em>apps</em>, <em>tools</em>, <em>systems</em> etc, making an implicit assumption that the information processing underneath just happened. Also, adding to the confusion, we don't even call some 'devices' computers anymore (eg portable devices).</p>
 
-It is easy to get seduced by, and caught up in a continual cycle of interaction with these 'information technologies'. I often feel that I am losing contact with what the initial purpose of these complicated systems, and that feeding and caring for these computational entities becomes the goal itself, either for myself or others.
+It is easy to get seduced by, and caught up in a continual cycle of interaction with  'information technologies'. I often feel that I am slowly losing contact with what the initial purpose of these complicated systems, and that feeding and caring for them as informational entities becomes the goal itself, either for myself or others.
 
 The application of computers gets more and more complex and subtle, but still (at the time of writing), computers are really good at some stuff, and really bad at others:
 
