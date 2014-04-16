@@ -6,7 +6,7 @@ tagline: static blogs
 tags: "jekyll, platforms, blogging"
 ---
 
-**This post is somewhat superceded by my move to medium.com**
+**This post is somewhat superceded by my move to [http://medium.com](https://medium.com/@tomreadings)**
 
 A blog seems a sensible thing to have, if only so that I have somewhere to write longer posts for reference on twitter.
 
